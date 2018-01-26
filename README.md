@@ -1,2 +1,3 @@
-# freeCodeCampKanpur.github.io
-freeCodeCamp Kanpur Main website
+# freeCodeCamp Kanpur
+
+The official website of freeCodeCamp Kanpur
